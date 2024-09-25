@@ -70,5 +70,5 @@ This project is licensed under the MIT License.
 ---
 
 ## **📧 Contact**
-- **Project Lead**: [Your Name]
-- **Email**: [Your Email]
+- **Project Lead**: Dhruvaraj Nikam
+Thank You 
