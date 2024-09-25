@@ -1,6 +1,7 @@
 # **Stroke Prediction System Using AI & IoT**
 
-![Medical Animation](https://via.placeholder.com/800x400.png?text=Stroke+Prediction+AI+System)  
+![Medical Animation](![Brain Stroke Animation](https://github.com/your-username/your-repo/assets/brain-monitor.gif)
+)  
 _Revolutionizing healthcare through real-time stroke prediction._
 
 ---
