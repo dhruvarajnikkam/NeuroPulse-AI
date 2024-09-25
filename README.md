@@ -1,7 +1,6 @@
 # **Stroke Prediction System Using AI & IoT**
 
-![Medical Animation](![Brain Stroke Animation](https://github.com/your-username/your-repo/assets/brain-monitor.gif)
-)  
+![Medical Animation](https://via.placeholder.com/800x400.png?text=Stroke+Prediction+AI+System)  
 _Revolutionizing healthcare through real-time stroke prediction._
 
 ---
@@ -71,5 +70,5 @@ This project is licensed under the MIT License.
 ---
 
 ## **📧 Contact**
-- **Project Lead**: Dhruvaraj Nikam
-Thank You 
+- **Project Lead**: [Your Name]
+- **Email**: [Your Email]
